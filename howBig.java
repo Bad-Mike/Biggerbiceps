@@ -11,7 +11,7 @@ public class howBig {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("How big is you BICEPS?: ");
+        System.out.print("How big is your BICEPS?: ");
 
         int size = input.nextInt();
 
